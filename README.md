@@ -12,4 +12,13 @@ I am dedicated to expanding my knowledge and experience in data analytics and te
 
 Skills: SQL | Python | Excel | Power BI | Cross displinary understanding | Data Visualization | Data Analytics | Critical thinking | Problem Solving | C++
 
-📫 Email me at: **chungyuenleung23@gmail.com** 
+📫 Find me at: **chungyuenleung23@gmail.com** 
+
+### :open_file_folder: My Portfolio
+-[SQL Projects](https://github.com/TugceCankurt/SQL-Projects/blob/main/README.md)
+
+-[Excel Projects](https://github.com/TugceCankurt/Excel-Projects/blob/main/README.md)
+
+-[Python Projects](https://github.com/TugceCankurt/Python-Projects/blob/main/README.md)
+
+-[Power BI Projects](https://github.com/TugceCankurt/PowerBI-Projects/blob/main/README.md)
