@@ -1,6 +1,6 @@
 ### A bit about me
 
-(https://github.com/chungyuenleung/chungyuenleung/blob/main/Untitled%20(1300%20%C3%97%20700%20px)%20(1300%20%C3%97%20400%20px).jpg)
+!(https://github.com/chungyuenleung/chungyuenleung/blob/main/Untitled%20(1300%20%C3%97%20700%20px)%20(1300%20%C3%97%20400%20px).jpg)
 
 I am Ivan, Chung Yuen Leung from Hong Kong. Now based in UK. My passion for data analysis and technology was sparked during my internship experience at ByteDance, where I was inspired to pursue a career in data analytics. I subsequently pursued an internship with the Government of Hong Kong, where I worked with GIS analysis, further developing my skills and expertise in this field.
 
