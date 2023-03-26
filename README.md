@@ -15,10 +15,6 @@ Skills: SQL | Python | Excel | Power BI | Cross displinary understanding | Data 
 📫 Find me at: **chungyuenleung23@gmail.com** 
 
 ### :open_file_folder: My Portfolio
--[SQL Projects](https://github.com/TugceCankurt/SQL-Projects/blob/main/README.md)
+-[Python Project](https://github.com/chungyuenleung/Pythonproject/edit/main/README.md)
 
--[Excel Projects](https://github.com/TugceCankurt/Excel-Projects/blob/main/README.md)
 
--[Python Projects](https://github.com/TugceCankurt/Python-Projects/blob/main/README.md)
-
--[Power BI Projects](https://github.com/TugceCankurt/PowerBI-Projects/blob/main/README.md)
