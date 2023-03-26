@@ -11,3 +11,5 @@ In addition, I have completed a data analytics boot camp with Generation UK, whi
 I am dedicated to expanding my knowledge and experience in data analytics and technology, and I am eager to collaborate with others in the field to achieve new heights of success. I am confident that my experience and skill set would be valuable assets to any team or project.
 
 Skills: SQL | Python | Excel | Power BI | Cross displinary understanding | Data Visualization | Data Analytics | Critical thinking | Problem Solving | C++
+
+📫 Email me at: **chungyuenleung23@gmail.com** 
