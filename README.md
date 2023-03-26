@@ -1,6 +1,6 @@
 
 
-!(https://github.com/chungyuenleung/chungyuenleung/blob/main/Untitled%20(1300%20%C3%97%20700%20px)%20(1300%20%C3%97%20400%20px).jpg)
+![ ](https://github.com/chungyuenleung/chungyuenleung/blob/main/Untitled%20(1300%20%C3%97%20700%20px)%20(1300%20%C3%97%20400%20px).jpg)
 
 #### Here is a bit about me
 
