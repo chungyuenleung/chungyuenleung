@@ -1,4 +1,4 @@
-### Hi there 👋
+### A bit about me
 
 I am Ivan, Chung Yuen Leung from Hong Kong. Now based in UK. My passion for data analysis and technology was sparked during my internship experience at ByteDance, where I was inspired to pursue a career in data analytics. I subsequently pursued an internship with the Government of Hong Kong, where I worked with GIS analysis, further developing my skills and expertise in this field.
 
