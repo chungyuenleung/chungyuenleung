@@ -9,3 +9,5 @@ I am Ivan, Chung Yuen Leung from Hong Kong. Now based in UK. My passion for data
 In addition, I have completed a data analytics boot camp with Generation UK, which has enabled me to enhance my technical skills even further. I have graduated with a strong technical degree in Information Engineering, which has provided me with a solid foundation in data analytics and technology.
 
 I am dedicated to expanding my knowledge and experience in data analytics and technology, and I am eager to collaborate with others in the field to achieve new heights of success. I am confident that my experience and skill set would be valuable assets to any team or project.
+
+Skills: SQL | Python | Excel | Power BI | Cross displinary understanding | Data Visualization | Data Analytics | Critical thinking | Problem Solving | C++
