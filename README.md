@@ -15,6 +15,6 @@ Skills: SQL | Python | Excel | Power BI | Cross displinary understanding | Data 
 📫 Find me at: **chungyuenleung23@gmail.com** 
 
 ### :open_file_folder: My Portfolio
--[Python Project](https://github.com/chungyuenleung/Pythonproject/edit/main/README.md)
+-[Python Project](https://github.com/chungyuenleung/Pythonproject/main/README.md)
 
 
