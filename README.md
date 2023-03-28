@@ -13,4 +13,6 @@ Skills: SQL | Python | Excel | Power BI | Cross displinary understanding | Data 
 ### :open_file_folder: My Portfolio
 -[Python Project](https://github.com/chungyuenleung/Pythonproject/)
 
+-[Excel Project](https://github.com/chungyuenleung/Excelproject/)
+
 
