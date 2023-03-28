@@ -15,4 +15,4 @@ Skills: SQL | Python | Excel | Power BI | Cross displinary understanding | Data 
 
 -[Excel Project](https://github.com/chungyuenleung/Excelproject/)
 
-
+-[Power BI Project](https://github.com/chungyuenleung/MyPowerBI-milestone/)
