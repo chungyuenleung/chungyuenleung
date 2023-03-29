@@ -10,7 +10,7 @@ I am dedicated to expanding my knowledge and experience in data analytics and te
 
 Skills: SQL | Python | Excel | Power BI | Cross displinary understanding | Data Visualization | Data Analytics | Critical thinking | Problem Solving | C++ 
 
-### 📁 My Portfolio
+### 📩 My Portfolio
 -[Python Project](https://github.com/chungyuenleung/Pythonproject/)
 
 -[Excel Project](https://github.com/chungyuenleung/Excelproject/)
